@@ -1,5 +1,8 @@
 //use code . from terminal to get here quick!
 //use Command + / to comment out everything selected
+
+//npm run server (server)
+//npm run start (frontend)
 import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'

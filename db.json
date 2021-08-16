@@ -13,22 +13,10 @@
       "reminder": true
     },
     {
-      "text": "ooga booga",
-      "day": "10",
-      "reminder": true,
-      "id": 3
-    },
-    {
       "text": "Unga Bunga",
       "day": "10 Billion Years ",
-      "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "Hi MOm ",
-      "day": "das",
       "reminder": false,
-      "id": 5
+      "id": 4
     }
   ]
 }
